@@ -1,6 +1,6 @@
-# Loan calculator
+# AWS Cloud Resume Challenge
 ![](https://i.imgur.com/waxVImv.png)
 
-I made this Loan calculator as part of the JetBrains Python for Beginners course, This calculator can work out the following: differential payments, annuity, principal, payment amount and payment periods.
+I made this repoository as part of the AWC cloud resume challenge, This repo will allow me to update my resume by implementing source countrol as part of a CI/CD pipeline.
 
-Arguments are passed to the calculator through the command line using argparse.
+I will also be implementing Github actions to assist with testing and pushing updates.
