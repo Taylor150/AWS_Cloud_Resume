@@ -1,3 +1,7 @@
+* {
+    max-width: 700px;
+    margin: auto;
+}
 body
 {
     font-family: 'Ubuntu', sans-serif;
